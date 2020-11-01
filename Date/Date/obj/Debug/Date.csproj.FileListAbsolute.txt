@@ -1,0 +1,14 @@
+E:\כיתה יא\מדעי המחשב\Date\Date\bin\Debug\Date.exe.config
+E:\כיתה יא\מדעי המחשב\Date\Date\bin\Debug\Date.exe
+E:\כיתה יא\מדעי המחשב\Date\Date\bin\Debug\Date.pdb
+E:\כיתה יא\מדעי המחשב\Date\Date\obj\Debug\Date.csprojAssemblyReference.cache
+E:\כיתה יא\מדעי המחשב\Date\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+E:\כיתה יא\מדעי המחשב\Date\Date\obj\Debug\Date.exe
+E:\כיתה יא\מדעי המחשב\Date\Date\obj\Debug\Date.pdb
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Date\Date\bin\Debug\Date.exe.config
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Date\Date\bin\Debug\Date.exe
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Date\Date\bin\Debug\Date.pdb
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Date\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Date\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Date\Date\obj\Debug\Date.exe
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Date\Date\obj\Debug\Date.pdb

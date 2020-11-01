@@ -1,0 +1,7 @@
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p_25 ex_23\p_25 ex_23\bin\Debug\p_25 ex_23.exe.config
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p_25 ex_23\p_25 ex_23\bin\Debug\p_25 ex_23.exe
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p_25 ex_23\p_25 ex_23\bin\Debug\p_25 ex_23.pdb
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p_25 ex_23\p_25 ex_23\obj\Debug\p_25 ex_23.csprojResolveAssemblyReference.cache
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p_25 ex_23\p_25 ex_23\obj\Debug\p_25 ex_23.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p_25 ex_23\p_25 ex_23\obj\Debug\p_25 ex_23.exe
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p_25 ex_23\p_25 ex_23\obj\Debug\p_25 ex_23.pdb

@@ -1,0 +1,21 @@
+F:\כיתה יא\Point\Point\bin\Debug\Point.exe.config
+F:\כיתה יא\Point\Point\bin\Debug\Point.exe
+F:\כיתה יא\Point\Point\bin\Debug\Point.pdb
+F:\כיתה יא\Point\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
+F:\כיתה יא\Point\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+F:\כיתה יא\Point\Point\obj\Debug\Point.exe
+F:\כיתה יא\Point\Point\obj\Debug\Point.pdb
+E:\כיתה יא\מדעי המחשב\Point\Point\bin\Debug\Point.exe.config
+E:\כיתה יא\מדעי המחשב\Point\Point\bin\Debug\Point.exe
+E:\כיתה יא\מדעי המחשב\Point\Point\bin\Debug\Point.pdb
+E:\כיתה יא\מדעי המחשב\Point\Point\obj\Debug\Point.csprojAssemblyReference.cache
+E:\כיתה יא\מדעי המחשב\Point\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+E:\כיתה יא\מדעי המחשב\Point\Point\obj\Debug\Point.exe
+E:\כיתה יא\מדעי המחשב\Point\Point\obj\Debug\Point.pdb
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Point\Point\bin\Debug\Point.exe.config
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Point\Point\bin\Debug\Point.exe
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Point\Point\bin\Debug\Point.pdb
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Point\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Point\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Point\Point\obj\Debug\Point.exe
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\Point\Point\obj\Debug\Point.pdb

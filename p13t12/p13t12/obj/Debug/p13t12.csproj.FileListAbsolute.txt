@@ -1,0 +1,7 @@
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p13t12\p13t12\obj\Debug\p13t12.csprojResolveAssemblyReference.cache
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p13t12\p13t12\obj\Debug\p13t12.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p13t12\p13t12\bin\Debug\p13t12.exe.config
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p13t12\p13t12\bin\Debug\p13t12.exe
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p13t12\p13t12\bin\Debug\p13t12.pdb
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p13t12\p13t12\obj\Debug\p13t12.exe
+F:\כיתה יא\מדעי המחשב\מונחה עצמים\ספר כחול\p13t12\p13t12\obj\Debug\p13t12.pdb
